@@ -1,2 +1,2 @@
 # Smart-Terrarium
-Uses sensors like DHT11, LDR, colour and moisture sensors.
+Uses sensors like DHT11, LDR, colour and moisture sensors.This project was inspired to grow plants that cannot grow easily in unfavourable climates. It was a comparitive study conducted to observe wether a plant can grow within a self sustained environment effectively in unfavourable conditions. We used multiple sensors to observe the health of the plant and then make a comparison. The plant ecosystem is self sufficient and doesnt need external sources for growth. 
